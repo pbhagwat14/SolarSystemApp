@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Solar System</string>
+    <string name="heading">List of Planets</string>
+    <string name="P1">Mercury</string>
+    <string name="P2">Venus</string>
+    <string name="P3">Earth</string>
+    <string name="P4">Mars</string>
+    <string name="P5">Jupiter</string>
+    <string name="P6">Saturn</string>
+    <string name="P7">Uranus</string>
+    <string name="P8">Neptune</string>
+    <string name="webP1">https://en.wikipedia.org/wiki/Mercury_(planet)</string>
+    <string name="webP2">https://en.wikipedia.org/wiki/Venus</string>
+    <string name="webP3">https://en.wikipedia.org/wiki/Earth</string>
+    <string name="webP4">https://en.wikipedia.org/wiki/Mars</string>
+    <string name="webP5">https://en.wikipedia.org/wiki/Jupiter</string>
+    <string name="webP6">https://en.wikipedia.org/wiki/Saturn</string>
+    <string name="webP7">https://en.wikipedia.org/wiki/Uranus</string>
+    <string name="webP8">https://en.wikipedia.org/wiki/Neptune</string>
+
+    <string-array name="planetsArray">
+        <item>@string/P1</item>
+        <item>@string/P2</item>
+        <item>@string/P3</item>
+        <item>@string/P4</item>
+        <item>@string/P5</item>
+        <item>@string/P6</item>
+        <item>@string/P7</item>
+        <item>@string/P8</item>
+    </string-array>
+
+</resources>

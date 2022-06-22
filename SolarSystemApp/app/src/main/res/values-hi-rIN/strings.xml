@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heading">ग्रहों की सूची</string>
+    <string name="app_name">सौर मंडल</string>
+    <string name="P1">बुध</string>
+    <string name="P2">शुक्र</string>
+    <string name="P3">धरती</string>
+    <string name="P4">मंगल</string>
+    <string name="P5">बृहस्पति</string>
+    <string name="P6">शनि</string>
+    <string name="P7">अरुण</string>
+    <string name="P8">वरुण</string>
+    <string name="webP1">https://hi.wikipedia.org/wiki/बुध_(ग्रह)</string>
+    <string name="webP2">https://hi.wikipedia.org/wiki/शुक्र</string>
+    <string name="webP3">https://hi.wikipedia.org/wiki/धरती</string>
+    <string name="webP4">https://hi.wikipedia.org/wiki/मंगल_ग्रह</string>
+    <string name="webP5">https://hi.wikipedia.org/wiki/बृहस्पति_(ग्रह)</string>
+    <string name="webP6">https://hi.wikipedia.org/wiki/शनि_(ग्रह)</string>
+    <string name="webP7">https://hi.wikipedia.org/wiki/अरुण_(ग्रह)</string>
+    <string name="webP8">https://hi.wikipedia.org/wiki/वरुण_(ग्रह)</string>
+</resources>
